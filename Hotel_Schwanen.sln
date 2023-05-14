@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel_Schwanen", "Hotel_Schwanen.csproj", "{9686411B-1260-4232-9F76-AD2B936498D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalControllerTests", "..\AdditionalControllerTests\AdditionalControllerTests.csproj", "{1538AAD2-7D5C-42BD-880B-0B8F47F0A12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9686411B-1260-4232-9F76-AD2B936498D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9686411B-1260-4232-9F76-AD2B936498D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9686411B-1260-4232-9F76-AD2B936498D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9686411B-1260-4232-9F76-AD2B936498D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1538AAD2-7D5C-42BD-880B-0B8F47F0A12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1538AAD2-7D5C-42BD-880B-0B8F47F0A12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1538AAD2-7D5C-42BD-880B-0B8F47F0A12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1538AAD2-7D5C-42BD-880B-0B8F47F0A12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF144EC6-76D9-461B-BE7C-A2B849CE86A0}
+	EndGlobalSection
+EndGlobal
